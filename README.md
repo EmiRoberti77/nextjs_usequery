@@ -7,7 +7,7 @@ npm run json-server
 ```
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Starting env.local
+## Enviroment variables - env.local
 I have left env.local in the project so api_urls can be changed 
 
 ## Getting Started
